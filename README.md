@@ -1,4 +1,4 @@
-# ORGANOIDS
+# ORGANOIDS and 3D TISSUE DIFFUSION
 Diffusion Models for Nutrients, Metabolites, &amp; Signaling Factors in 3D Organoids and Tissue Constructs
 
 Instructions for Supplementary Matlab Script
